@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Instagram-%40soufiane9513-orange?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=SoufianeBeloufa&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
